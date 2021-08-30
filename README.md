@@ -7,5 +7,6 @@ Our task is to find the coefficients of each equation. To speed up the training 
 
 ## The Process
 My task is to make a text generator to generate coherent Article Titles. I will be using the transformers library for pre-processing and model building I will then finetune the model using PyTorch Lightning.
+![](https://cdn-images-1.medium.com/max/800/1*YUHMEcrudbDs7nkngtny7g.png)
 ## Endnote
 This project is a part of my series 25 projects challenge. If you want to see more of these or want to take part yourself, please visit the [introduction page](https://medium.com/r/?url=https%3A%2F%2Fkeeganfdes03.medium.com%2Ff2150afe053%3Fsource%3Dfriends_link%26sk%3D5ae10ad6072aa80c0f1ed3865a0196a8).

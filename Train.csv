@@ -1,0 +1,402 @@
+post_time,post_name,post_author,post_publication,post_claps,post_responses,post_tag_1,post_tag_2,post_tag_3,post_tag_4,ranking,Searched
+2017-11-18,Did Karl Marx Predict Artificial Intelligence 170 Years Ago?,Michael R. McBride,Independent,0.602,6,Technology,Marx,Artificial Intelligence,History,116,Artificial Intelligence
+2019-03-13,How To Start a Career In Artificial Intelligence In 2020? A Step by Step Guide,Albert Christopher,Independent,0.418,6,Artificial Intelligence,Machine Learning,Technology,Tech,108,Artificial Intelligence
+2018-09-05,Understanding Genetic Algorithms in the Artificial Intelligence Spectrum,Manish Kumar,Analytics Vidhya,1.2,6,Machine Learning,Deep Learning,Neural Networks,Genetic Algorithm,53,Artificial Intelligence
+2017-08-09,Transitioning from Software Engineering to Artificial Intelligence,Emmanuel Ameisen,Insight,0.8029999999999999,0,Machine Learning,AI,Software Engineering,Insight Ai,65,Artificial Intelligence
+2016-11-07,"If you want to learn Data Science, take a few of these statistics classes",David Venturi,We’ve moved to freeCodeCamp.org/news,3.9,23,Data Science,Programming,Learning To Code,Technology,20,Data Science
+2017-12-04,"The Difference Between Artificial Intelligence, Machine Learning, and Deep Learning",Calum McClelland,IoT For All,9.4,40,Artificial Intelligence,Machine Learning,Deep Learning,IoT,5,Artificial Intelligence
+2019-01-22,Mastering the Data Science Interview Loop,Andrei Lyskov,Towards Data Science,3.8,7,didn't_use,didn't_use,didn't_use,didn't_use,57,Data Science
+2018-05-03,Artificial Intelligence for Music Videos,"Daniel Shapiro, PhD",Towards Data Science,1.2,5,Artificial Intelligence,Deep Learning,Data Science,Machine Learning,35,Artificial Intelligence
+2021-01-12,I Studied 365 Data Visualizations in 2020,Avery Smith,Towards Data Science,0.493,1,didn't_use,didn't_use,didn't_use,didn't_use,88,AI
+2019-02-24,"How I Eat For Free in NYC Using Python, Automation, Artificial Intelligence, and Instagram",Chris Buetti,Independent,11.0,58,Social Media,Python,Instagram,Data Science,4,Artificial Intelligence
+2018-01-19,How To Create A Successful Artificial Intelligence Strategy,Amit Ashwini,The Startup,0.522,2,Machine Learning,AI,Artificial Intelligence,Product Development,157,Artificial Intelligence
+2018-09-20,Artificial Intelligence + Blockchain = Passive Income (Forever?),Kirill Shilov,HackerNoon.com,7.0,43,Blockchain,Software Development,Bitcoin,Artificial Intelligence,7,Artificial Intelligence
+2018-08-22,Use Kaggle to start (and guide) your ML/ Data Science journey  Why and How,Nityesh Agarwal,Towards Data Science,7.1,30,Machine Learning,Kaggle,Data Science,Towards Data Science,26,Data Science
+2019-10-28,Data Visualization  Which graphs should I use? (Seaborn Examples),Rohan Gupta,Towards Data Science,0.395,2,didn't_use,didn't_use,didn't_use,didn't_use,97,AI
+2018-09-10,"Programming Skills, A Complete Roadmap for Learning Data Science  Part 1",Rebecca Vickery,vickdata,4.3,16,Data Science,Learning To Code,Python,Machine Learning,43,Data Science
+2018-10-09,Storytelling with Data: A Data Visualization Guide for Business Professionals,Admond Lee,Towards Data Science,0.252,1,Data Visualization,Towards Data Science,Data Science,Motivation,155,AI
+2017-03-10,Gestalt Principles for Data Visualization,Elijah Meeks,Independent,0.322,0,Data Visualization,Design,Data Science,didn't_use,127,AI
+2017-03-03,Making Annotations First-Class Citizens in Data Visualization,Elijah Meeks,Independent,0.255,2,Data Visualization,JavaScript,Design,React,116,AI
+2018-10-09,Data visualization for color accessibility,Artur,UX Collective,0.451,4,Design,Accessibility,Product,Apps,124,AI
+2018-06-12,"Data Science, Machine Learning and Artificial Intelligence for Art",Vishal Kumar,Towards Data Science,2.9,9,didn't_use,didn't_use,didn't_use,didn't_use,127,Data Science
+2019-10-16,Kepler.GL & Jupyter Notebooks: Geospatial Data Visualization with Ubers opensource Kepler.GL,Abdishakur,Towards Data Science,0.47,3,didn't_use,didn't_use,didn't_use,didn't_use,94,AI
+2020-07-09,"4 pillars of data visualization: distribution, relationship, composition, comparison",Mahbubul Alam,Towards Data Science,0.097,0,didn't_use,didn't_use,didn't_use,didn't_use,179,AI
+2018-11-08,Lesser Known Python Libraries for Data Science,Parul Pandey,Analytics Vidhya,5.8,20,About Us,Deep Learning,Machine Learning,Hackathon,32,Data Science
+2020-07-21,Remote Data Science Internships For Everyone [With Certificates],Frederik Bussler,Noteworthy - The Journal Blog,1.6,4,Your Stories,Try Journal,didn't_use,didn't_use,114,Data Science
+2017-04-05,"How To Prepare for Automation? Or, Why We Need More Artificial Intelligence Ecosystems Now!",Erik P.M. Vermeulen,HackerNoon.com,0.094,2,Startup,Venture Capital,Artificial Intelligence,Innovation,141,Artificial Intelligence
+2017-02-08,Mark Cuban on Why You Need to Study Artificial Intelligence or Youll be a Dinosaur in 3 Years,Mark Suster,Both Sides of the Table,0.971,17,Startup,Artificial Intelligence,Startup Lessons,Venture Capital,14,Artificial Intelligence
+2021-05-11,Artificial Intelligence Books you should read in 2021,Przemek Chojecki,Data Science Rush,0.19,7,Courses,Our Website,didn't_use,didn't_use,128,Artificial Intelligence
+2018-10-05,How to Data Science without a Degree,Jason Jung,Towards Data Science,4.5,19,didn't_use,didn't_use,didn't_use,didn't_use,58,Data Science
+2020-02-29,Complete Guide to Data Visualization with Python,Albert Sanchez Lafuente,Towards Data Science,0.928,3,didn't_use,didn't_use,didn't_use,didn't_use,49,AI
+2019-02-03,How It Feels to Learn Data Science in 2019,Thomas Nield,Towards Data Science,7.4,37,Data Science,Towards Data Science,Machine Learning,Artificial Intelligence,25,Data Science
+2020-06-07,Why is Data Science Losing Its Charm?,Harshit Ahuja,Towards Data Science,4.8,57,didn't_use,didn't_use,didn't_use,didn't_use,18,Data Science
+2016-02-14,7 Data Visualization Types You Should be Using More (and How to Start),Evan Sinar,Independent,1.1,11,Data Visualization,Analytics,Data Science,A Place to Read More about It,32,AI
+2018-02-10,How to write a production-level code in Data Science?,"Venkatesh Pappakrishnan, Ph.D.",Towards Data Science,3.4,30,didn't_use,didn't_use,didn't_use,didn't_use,67,Data Science
+2019-01-29,Why visual literacy is essential to good data visualization,Benjamin Cooley,Towards Data Science,0.945,9,Data Visualization,Data,Design,Data Science,44,AI
+2020-02-04,I Designed My Own Machine Learning and Artificial Intelligence Degree,Angelica Dietzel,Better Programming,0.905,8,Archive,Write For Us,didn't_use,didn't_use,51,Artificial Intelligence
+2017-09-19,Artificial Intelligence: Get your users to label your data,"Daniel Shapiro, PhD",Towards Data Science,0.843,2,Machine Learning,Artificial Intelligence,Deep Learning,Data Science,82,Artificial Intelligence
+2019-03-06,A full-stack data science project,Naren Santhanam,Towards Data Science,1.1,9,didn't_use,didn't_use,didn't_use,didn't_use,179,Data Science
+2017-10-30,45 Ways to Activate Your Data Science Career,Kirill Eremenko,Towards Data Science,3.2,6,Data Science,Careers,Machine Learning,Towards Data Science,95,Data Science
+2018-03-01,5 Quick and Easy Data Visualizations in Python with Code,George Seif,Towards Data Science,10.9,19,Data Science,Visualization,Python,Data Visualization,2,AI
+2017-12-12,Embodied Learning is Essential to Artificial Intelligence,Carlos E. Perez,Intuition Machine,1.7,8,Artificial Intelligence,Deep Learning,Strategy,Deep Learning Playbook,45,Artificial Intelligence
+2017-05-09,Top 15 Python Libraries for Data Science in 2017,Igor Bobriakov,ActiveWizards — AI & ML for startups,5.9,22,Machine Learning,Data Science,Python,didn't_use,24,Data Science
+2020-05-22,Constructing a Career in Data Visualization: The How,Will Chase,Nightingale,0.631,8,All stories,Topics in Data Viz,How To & Career,Historic Data Viz,84,AI
+2018-03-31,The World of Data Visualization,Syed Sadat Nazrul,Towards Data Science,0.272,0,Data Visualization,Machine Learning,didn't_use,didn't_use,172,AI
+2017-01-19,Types of Artificial Intelligence Learning Models,Jesus Rodriguez,Independent,0.222,3,didn't_use,didn't_use,didn't_use,didn't_use,153,Artificial Intelligence
+2017-01-25,"I ranked every Intro to Data Science course on the internet, based on thousands of data points",David Venturi,We’ve moved to freeCodeCamp.org/news,6.4,64,Data Science,Programming,Big Data,Tech,6,Data Science
+2020-10-10,Go Programming Language for Artificial Intelligence and Data Science of the 20s,Dasaradh K. Saravanan,Towards Data Science,1.5,29,didn't_use,didn't_use,didn't_use,didn't_use,117,Data Science
+2018-12-02,A long-term Data Science roadmap which WONT help you become an expert in only several months,Andrew Lukyanenko,Towards Data Science,4.7,15,Data Science,Roadmaps,Arseny Kravchenko,Denis Vorotyntsev,46,Data Science
+2017-06-08,5 Reasons Why We Should Study and Embrace Artificial Intelligence!,Erik P.M. Vermeulen,HackerNoon.com,0.373,2,Fintech,Artificial Intelligence,Innovation,Business,124,Artificial Intelligence
+2018-12-15,Data Visualization for Machine Learning and Data science:,Sanat,Towards Data Science,0.529,5,Data Science,Machine Learning,Data Visualization,didn't_use,122,AI
+2019-09-30,How to Learn Data Science for Free,Rebecca Vickery,Towards Data Science,6.6,21,didn't_use,didn't_use,didn't_use,didn't_use,17,Data Science
+2018-04-17,Importance of Artificial Intelligence in Dentistry,Shashank Gupta,Healthcare in America,0.51,0,Dentistry,Artificial Intelligence,AI,Dentist,151,Artificial Intelligence
+2018-05-15,A Closer Look at Three Popular Artificial Intelligence Technologies and How Theyre Used,Kerri Hale,Towards Data Science,0.58,0,Artificial Intelligence,Machine Learning,AI,Tech,100,Artificial Intelligence
+2016-09-26,"If you want to learn Data Science, start with one of these programming classes",David Venturi,We’ve moved to freeCodeCamp.org/news,7.3,54,Education,Programming,Data Science,Learning To Code,4,Data Science
+2017-08-09,Artificial Intelligence and the Rise of Economic Inequality,Abhinav Suri,Towards Data Science,0.742,9,Technology,AI,Economic Inequality,Society,118,Artificial Intelligence
+2020-12-28,8 Rules for optimal use of color in data visualization,Aseem Kashyap,Towards Data Science,0.329,4,didn't_use,didn't_use,didn't_use,didn't_use,121,AI
+2020-02-12,The Jira mindset is damaging your data science team,Dave Dale,Towards Data Science,2.6,23,Data Science,Project Management,Leadership,Machine Learning,61,Data Science
+2016-11-18,"The 10 Best AI, Data Science and Machine Learning Podcasts",Matt Fogel,Startup Grind,1.3,21,Machine Learning,Data Science,Podcasts,Artificial Intelligence,111,Data Science
+2018-01-11,Accessible Colors for Data Visualization,Zach Grosser,Independent,0.307,1,didn't_use,didn't_use,didn't_use,didn't_use,171,AI
+2019-04-21,Building Stock Selection into an Artificial Intelligence Framework,Luke Posey,Towards Data Science,0.382,4,didn't_use,didn't_use,didn't_use,didn't_use,106,Artificial Intelligence
+2019-02-11,What no one will tell you about data science job applications,Edouard Harris,Towards Data Science,5.1,29,Hiring,Machine Learning,Data Science,Job Hunting,30,Data Science
+2019-07-10,What Are Data Visualization Style Guidelines?,Amy Cesal,Nightingale,1.5,7,Design,Data,Data Visualization,Style Guides,40,AI
+2020-08-16,7 Deadly Sins of Data Visualization,Slava Shestopalov,Muzli - Design Inspiration,4.2,19,Visual Design,Design,Data Visualization,UI,18,AI
+2018-09-06,Data Science Skills: Web scraping using python,Kerry Parker,Towards Data Science,6.1,42,Web Development,Python,Web Scraping,Data Science,27,Data Science
+2017-05-31,"The best Data Science courses on the internet, ranked by your reviews",David Venturi,We’ve moved to freeCodeCamp.org/news,7.1,32,Data Science,Tech,Technology,Programming,8,Data Science
+2018-04-28,"Web Scraping, Regular Expressions, and Data Visualization: Doing it all in Python",Will Koehrsen,Towards Data Science,9.0,34,Data Science,Programming,Education,Computer Science,3,AI
+2020-08-19,"Why artificial intelligence needs an open, decentralised platform to serve the world",Fetch.ai,Fetch.ai,3.2,4,Artificial Intelligence,Blockchain,Data,Technology,139,Artificial Intelligence
+2019-09-04,5 Beginner Friendly Steps to Learn Machine Learning and Data Science with Python,Daniel Bourke,Towards Data Science,2.2,7,didn't_use,didn't_use,didn't_use,didn't_use,109,Data Science
+2021-02-01,9 Distance Measures in Data Science,Maarten Grootendorst,Towards Data Science,3.2,18,didn't_use,didn't_use,didn't_use,didn't_use,38,Data Science
+2020-05-18,Top 9 Data Science Projects for a Beginner in 2020,Rashi Desai,Towards Data Science,0.94,3,didn't_use,didn't_use,didn't_use,didn't_use,158,Data Science
+2018-09-05,Do We Need to Dehumanize Artificial Intelligence?,Michael Burkhardt,Omdena,0.4920000000000001,1,Join a project,About Omdena,didn't_use,didn't_use,155,Artificial Intelligence
+2019-04-30,The Fastest Way to Learn Data Science,Rebecca Vickery,Towards Data Science,2.0,5,didn't_use,didn't_use,didn't_use,didn't_use,119,Data Science
+2021-05-05,How I Used Data Science to Double My Income In One Year,Terence Shin,Towards Data Science,1.7,11,didn't_use,didn't_use,didn't_use,didn't_use,115,Data Science
+2018-05-04,What is data visualization for?,Eric Rodenbeck,Hi.Stamen,0.463,1,Data Visualization,Design,Museums,Media,161,AI
+2017-06-05,An overview of every Data Visualization course on the internet,David Venturi,We’ve moved to freeCodeCamp.org/news,1.4,6,Data Science,Education,Tech,Startup,25,AI
+2019-04-04,Was it Worth Studying a Data Science Masters?,"Sterling Osborne, PhD Researcher",Towards Data Science,1.2,9,didn't_use,didn't_use,didn't_use,didn't_use,177,Data Science
+2019-10-24,How to Choose Colors for Your Data Visualizations,Michael Yi,Nightingale,1.0,2,All stories,Topics in Data Viz,How To & Career,Historic Data Viz,42,AI
+2018-04-01,M2M Day 90 How I used Artificial Intelligence to automate Tinder,Jeffrey Li,Towards Data Science,1.92,10,Machine Learning,Artificial Intelligence,Data Science,Learning,40,Artificial Intelligence
+2020-01-02,The Data Science Behind the Man Who Solved the Market,Haixun Wang,The Startup,1.5,7,[June] Call for Submissions,Editor's Picks,Top 10 Stories,Submit,145,Data Science
+2019-10-01,How to Master Data Visualization,Lucy Todd,Modus,2.4,11,Design Thinking,Visual Communication,Data Visualization,Design,16,AI
+2016-05-17,The Road to Artificial Intelligence,Rand Hindi,Snips Blog,0.331,13,Artificial Intelligence,Machine Learning,Privacy,Engineering,47,Artificial Intelligence
+2015-12-08,Investing in Artificial Intelligence,Nathan Benaich,Independent,0.29600000000000004,7,Machine Learning,Artificial Intelligence,Venture Capital,Deep Learning,59,Artificial Intelligence
+2018-03-08,Data visualization with react-vis,Shyianovska Nataliia,DailyJS,1.2,10,React,React Vis,Data Visualization,JavaScript,53,AI
+2020-10-12,Top 7 FREE Artificial Intelligence Courses from the Ivy League Universities,Roman Orac,Towards Data Science,0.157,1,didn't_use,didn't_use,didn't_use,didn't_use,154,Artificial Intelligence
+2019-07-15,Beyond Nightingale: Being a Woman in Data Visualization,Stephanie Evergreen,Nightingale,1.1,11,All stories,Topics in Data Viz,How To & Career,Historic Data Viz,78,AI
+2017-08-13,How to convince Venture Capitalists youre an expert in Artificial Intelligence,Robbie Allen,Machine Learning in Practice,0.335,7,Artificial Intelligence,Venture Capital,Startup,Entrepreneurship,133,Artificial Intelligence
+2019-06-07,Top 10 Data Science Leaders You Should Follow,Admond Lee,Towards Data Science,1.5,5,didn't_use,didn't_use,didn't_use,didn't_use,142,Data Science
+2017-10-22,Artificial Intelligence is More than Just a Technology,Erik P.M. Vermeulen,HackerNoon.com,1.6,14,Innovation,Business,Entrepreneurship,Life,43,Artificial Intelligence
+2018-06-22,5 Data Science Projects That Will Get You Hired in 2018,John Sullivan,Independent,2.6,14,Data Science,Machine Learning,Analytics,Data Visualization,68,Data Science
+2019-12-23,Python For Data Science  Advance Guide to Data Visualization with Plotly,Nicholas Leong,Towards Data Science,0.647,3,didn't_use,didn't_use,didn't_use,didn't_use,70,AI
+2018-05-04,So your data science project isnt working,Jacqueline Nolis,Independent,2.0,15,Data Science,didn't_use,didn't_use,didn't_use,169,Data Science
+2018-03-17,"Data Visualization with Bokeh in Python, Part I: Getting Started",Will Koehrsen,Towards Data Science,4.1,19,Data Science,Python,Education,Visualization,10,AI
+2019-08-04,Data visualization with Plotly,Valentina Alto,DataSeries,0.321,1,ROUNDTABLES INSIGHTS,TOPIC DEEP DIVES,ABOUT,POWERED BY OPENOCEAN VC,114,AI
+2018-09-04,Leveraging Artificial Intelligence For Swing Trading Outperformance,Sean McLaughlin,Independent,0.626,5,Trading,Investing,Finance,Artificial Intelligence,74,Artificial Intelligence
+2020-11-29,Ten of the Best Data Visualizations Created In 2020,Terence Shin,Towards Data Science,0.518,2,didn't_use,didn't_use,didn't_use,didn't_use,72,AI
+2017-10-26,The 7 Kinds of Data Visualization People,Elijah Meeks,Nightingale,2.9,13,Data Visualization,Data Science,Design,Data Journalism,15,AI
+2015-04-20,The 7 Best Data Science and Machine Learning Podcasts,Matt Fogel,The Startup,1.0,14,Podcast,Data Science,Machine Learning,Submit,82,Data Science
+2017-07-10,Data Science Simplified Part 1: Principles and Process,Pradeep Menon,Becoming Human: Artificial Intelligence Magazine,1.2,7,Machine Learning,Data Science,Analytics,Artificial Intelligence,110,Data Science
+2020-03-02,Interactive Geospatial Data Visualization with Geoviews in Python,Abdishakur,Towards Data Science,0.376,2,didn't_use,didn't_use,didn't_use,didn't_use,98,AI
+2019-09-04,Top 7 Data Science Course Repositories on GitHub,Fatos Morina,Towards Data Science,1.6,2,didn't_use,didn't_use,didn't_use,didn't_use,146,Data Science
+2019-01-10,A Non-Technical Reading List for Data Science,Will Koehrsen,Towards Data Science,2.8,10,Data Science,Reading,Education,Towards Data Science,93,Data Science
+2018-12-31,Data Science for Algorithmic Trading,"Daniel Shapiro, PhD",Towards Data Science,1.6,10,Machine Learning,Data Science,Stock Market,Artificial Intelligence,153,Data Science
+2018-03-20,Data visualization hacks,Becca Selah,UX Collective,0.8959999999999999,5,Data Visualization,User Experience,Data,Visual Design,80,AI
+2019-03-05,The 20 Best Examples of Using Artificial Intelligence for Retail Experiences,anonymous,Independent,0.66,2,didn't_use,didn't_use,didn't_use,didn't_use,73,Artificial Intelligence
+2019-01-25,The Simple Yet Practical Data Visualization Codes,Admond Lee,Towards Data Science,0.574,3,Data Visualization,Data Science,Education,Towards Data Science,95,AI
+2018-02-22,Is the Purpose of Artificial Intelligence to Sell Sugar Water?,Carlos E. Perez,Intuition Machine,2.7,5,Bitcoin,Deeplearning,Artificial Intelligence,Deep Learning Playbook,33,Artificial Intelligence
+2017-10-12,Collecting Data Science Cheat Sheets,Karlijn Willems,Towards Data Science,3.1,14,Data Science,Data Analysis,Big Data,Data Visualization,84,Data Science
+2018-08-18,What on earth is data science?,Cassie Kozyrkov,HackerNoon.com,3.7,17,Data Science,Statistics,Machine Learning,Artificial Intelligence,104,Data Science
+2018-04-04,The Successful Data Science Job Hunt,Kristen Kehrer,Towards Data Science,1.4,10,didn't_use,didn't_use,didn't_use,didn't_use,166,Data Science
+2019-01-15,Data Science,Ben Chen,Independent,5.3,6,Data Science,Machine Learning,資料科學,機器學習,164,Data Science
+2017-09-25,Data Visualization,Shandy Tsai,UXeastmeetswest,4.1,7,UX,UI,UX Design,Jobs,21,AI
+2020-04-30,The Ultimate Guide to Becoming an Artificial Intelligence Expert,Adam Maj,Independent,1.92,3,Artificial Intelligence,Machine Learning,Deep Learning,Education,96,Artificial Intelligence
+2018-03-26,Boost your data science skills. Learn linear algebra.,Hadrien Jean,Towards Data Science,3.7,9,Machine Learning,Deep Learning,Linear Algebra,Data Science,75,Data Science
+2020-12-16,An overview of common data visualization mistakes,Micah Bowers,UX Collective,0.35200000000000004,3,Data Visualization,Design,UX,Data Science,159,AI
+2018-12-11,Geographical Data Visualization with Mapbox,Todd Birchard,Hackers and Slackers,0.677,3,didn't_use,didn't_use,didn't_use,didn't_use,91,AI
+2018-12-10,Pitching Artificial Intelligence to Business People,"Daniel Shapiro, PhD",Towards Data Science,0.227,2,Artificial Intelligence,Machine Learning,Data Science,Marketing,158,Artificial Intelligence
+2018-12-18,Do you need a graduate degree for data science?,Jeremie Harris,Towards Data Science,2.8,24,Data Science,Machine Learning,Towards Data Science,Hiring,120,Data Science
+2018-01-31,How to Transform Boring and Dry Reports with Data Visualization,Payman Taei,Towards Data Science,0.466,3,Data Visualization,Charts And Graphs,Infographics,Data Analysis,128,AI
+2019-07-20,Tutorial on Data Visualization: Weather Data,Benjamin Obi Tayo Ph.D.,Towards AI,0.644,1,For Authors,Categories,Latest,About,148,AI
+2019-12-09,How I Quit My Full-Time Job to Pursue a Freelance Career As a Data Visualization Designer,Jane Zhang,Nightingale,0.8240000000000001,2,All stories,Topics in Data Viz,How To & Career,Historic Data Viz,100,AI
+2019-05-08,How Artificial Intelligence Is Tracking Sex Traffickers,Liz Brody,OneZero,3.3,12,didn't_use,didn't_use,didn't_use,didn't_use,31,Artificial Intelligence
+2016-12-15,Embracing Cognitive Biases in Artificial Intelligence to Build One Shot Learners,Daniel Jeffries,HackerNoon.com,0.053,2,Artificial Intelligence,Machine Learning,One Shot Learners,Cognitive Bias,179,Artificial Intelligence
+2018-06-07,Artificial Intelligence Is Humanity's Rorschach Test,Michael Solana,Independent,2.0,18,didn't_use,didn't_use,didn't_use,didn't_use,42,Artificial Intelligence
+2017-11-15,Data Visualization in Python  Bar Graph in Matplotlib,Adnan Siddiqi,Python Pandemonium,0.568,9,Data Science,Data Visualization,Python,Matplotlib,101,AI
+2015-07-15,Artificial Intelligence and the Future of Work,Blake Irving,Independent,0.17800000000000002,3,Future Of Work,Artificial Intelligence,Small Business,didn't_use,86,Artificial Intelligence
+2018-04-13,Hands on Graph Data Visualization,Michael Hunger,Neo4j Developer Blog,0.452,6,Neo4j,Data Visualization,JavaScript,Developer,144,AI
+2018-12-09,Understanding Artificial Intelligence,David Alayón,Future Today,1.1,15,Artificial Intelligence,AI,Innovation,Technology,62,Artificial Intelligence
+2016-01-01,Use Animation to Supercharge Data Visualization,Evan Sinar,Independent,0.42,5,Data Visualization,Analytics,Animation,GIFMaker,120,AI
+2018-08-09,Data Science A-Z from Zero to Kaggle Kernels Master,Leonardo Ferreira,Towards Data Science,5.9,31,Data Science,Machine Learning,Kaggle,Technology,37,Data Science
+2018-11-01,"Some Important Data Science Tools that arent Python, R, SQL or Math",Kyle Gallatin,Towards Data Science,1.8,4,didn't_use,didn't_use,didn't_use,didn't_use,140,Data Science
+2018-11-27,Matplotlib  Making data visualization interesting,Karan Bhanot,Towards Data Science,0.6659999999999999,2,Data Visualization,Data Science,Machine Learning,Matplotlib,75,AI
+2016-11-17,Reinforcement Learning: Artificial Intelligence in Game Playing,Pavel Kordík,Independent,0.275,3,Machine Learning,Artificial Intelligence,Reinforcement Learning,didn't_use,165,Artificial Intelligence
+2018-11-13,How to build a data science project from scratch,Jekaterina Kokatjuhha,We’ve moved to freeCodeCamp.org/news,4.0,18,Machine Learning,Data Science,Data Visualization,Data Analysis,60,Data Science
+2019-10-30,Five Data Science Interview Questions that you must be able to answer,Monika Sharma,Towards Data Science,2.2,10,didn't_use,didn't_use,didn't_use,didn't_use,112,Data Science
+2019-05-31,How Can Beginners Design Cool Data Visualizations?,Lewis Chou,Towards Data Science,0.879,0,didn't_use,didn't_use,didn't_use,didn't_use,109,AI
+2019-06-18,Geospatial data visualization in Jupyter Notebooks,Barto Molina,Independent,0.325,1,didn't_use,didn't_use,didn't_use,didn't_use,113,AI
+2020-10-05,Color palettes and accessibility features for data visualization,Shixie,_carbondesign,0.851,5,Color,Design System,Data Visualization,Palette,85,AI
+2017-01-28,10 Most Important People in Artificial Intelligence in 2017,Li Jiang,Independent,0.509,14,Artificial Intelligence,Machine Learning,Startup,Future,38,Artificial Intelligence
+2018-06-14,The Data Science Gap,Kirill Eremenko,Towards Data Science,2.6,10,Data Science,Data,Technology,Careers,151,Data Science
+2019-06-28,Data Visualization in the Age of Communism,Jason Forrest,Modus,1.4,2,Ideas,Craft,Career,didn't_use,89,AI
+2018-04-11,Ultimate following list to keep updated in artificial intelligence,Alexandr Honchar,Independent,1.2,2,didn't_use,didn't_use,didn't_use,didn't_use,60,Artificial Intelligence
+2020-06-19,Data Science is Dead. Long Live Business Science!,Fabrizio Fantini,Towards Data Science,5.9,18,didn't_use,didn't_use,didn't_use,didn't_use,39,Data Science
+2020-10-19,Python Data Visualization with Matplotlib  Part 1,Rizky Maulana Nurhidayat,Towards Data Science,0.322,2,didn't_use,didn't_use,didn't_use,didn't_use,165,AI
+2018-06-13,We need more Interactive Data Visualization tools (for the Web) in Python,Alark Joshi,Independent,2.3,12,Data Visualization,Python,Data Science,geopandas + matplotlib,20,AI
+2018-09-21,Material design charts and Data visualization encyclopedia,Roman Kamushken,Independent,0.732,8,Material Design,Figma,Data Analysis,Prototyping,103,AI
+2018-09-21,Three Popular Clustering Methods and When to Use Each,ODSC - Open Data Science,Predict,1.7,1,Machine Learning,Data Science,Data,Technology,147,Data Science
+2016-04-04,Recent Developments in Artificial Intelligence,Pavel Kordík,Independent,0.101,3,Machine Learning,Artificial Intelligence,Recommendation System,didn't_use,173,Artificial Intelligence
+2020-01-09,Five Cool Python Libraries for Data Science,Dhilip Subramanian,Towards AI,1.8,4,For Authors,Categories,Latest,About,148,Data Science
+2018-07-03,Tips for Data Visualization,Kate Strachnyi,Towards Data Science,0.315,0,didn't_use,didn't_use,didn't_use,didn't_use,157,AI
+2020-09-08,Data Visualization 101: How to Choose a Chart Type,Sara A. Metwalli,Towards Data Science,0.194,1,didn't_use,didn't_use,didn't_use,didn't_use,133,AI
+2020-01-13,Basic Statistics You NEED to Know for Data Science,Terence Shin,Towards Data Science,1.2,9,didn't_use,didn't_use,didn't_use,didn't_use,124,Data Science
+2018-12-21,Build the Artificial Intelligence for detecting diabetes using Neural Networks and keras.,Veer Khot,Towards Data Science,0.443,6,Deep Learning,Neural Networks,Artificial Intelligence,AI,94,Artificial Intelligence
+2019-12-10,Top 20 Websites for Machine Learning and Data Science in 2020,Benedict Neo,The Startup,1.98,7,[June] Call for Submissions,Editor's Picks,Top 10 Stories,Submit,97,Data Science
+2020-09-28,Stop Using Anaconda for Your Data Science Projects,Rionaldi Chandraseta,The Startup,1.2,16,[June] Call for Submissions,Editor's Picks,Top 10 Stories,Submit,144,Data Science
+2018-01-29,Color Advice for Data Visualization with D3.js,Elijah Meeks,Independent,0.946,5,Data Visualization,Design,D3js,Color Theory,61,AI
+2019-10-13,A Data Visualization Adventure,Shelby Temple,Towards Data Science,0.305,1,didn't_use,didn't_use,didn't_use,didn't_use,119,AI
+2017-09-12,How To Ace Data Science Interviews: SQL,Carson Forter,Towards Data Science,2.8,9,Sql,Data Science,Interview,Technology,98,Data Science
+2019-06-23,Artificial Intelligence in Supply Chain Management,Vegard Flovik,Towards Data Science,0.319,8,didn't_use,didn't_use,didn't_use,didn't_use,110,Artificial Intelligence
+2018-03-06,The Cold Start Problem with Artificial Intelligence,Dwayne Gefferie,Towards Data Science,1.7,8,Data Science,Startup,Artificial Intelligence,Payments,27,Artificial Intelligence
+2017-01-09,The Data Science Process: What a data scientist actually does day-to-day,Raj Bandyopadhyay,Springboard,2.2,19,Data Science,Machine Learning,Big Data,Data Visualization,123,Data Science
+2017-10-31,15 Stunning Data Visualizations (And What You Can Learn From Them),Payman Taei,Towards Data Science,6.5,14,Data Visualization,Towards Data Science,Graphic Design,Charts And Graphs,5,AI
+2019-05-10,Its 2019  Make Your Data Visualizations Interactive with Plotly,Jeff Hale,Towards Data Science,1.8,6,didn't_use,didn't_use,didn't_use,didn't_use,24,AI
+2018-08-16,Data Visualization with Python and Seaborn  Part 1: Loading Datasets,Random Nerd,Independent,0.605,1,Data Science,Data Visualization,Machine Learning,Technology,68,AI
+2020-09-10,Data Visualization 101: How to Choose a Python Plotting Library,Sara A. Metwalli,Towards Data Science,0.224,4,didn't_use,didn't_use,didn't_use,didn't_use,156,AI
+2017-11-23,Data Visualization in Python  Histogram in Matplotlib,Adnan Siddiqi,Python Pandemonium,0.289,7,Data Science,Data Visualization,Python,Matplotlib,146,AI
+2017-04-10,Artificial Intelligence in Retail: A Smashing Tool of Omnichannel,ELEKS,Independent,0.476,5,Retail,Ecommerce,Artificial Intelligence,Generation Z,28,Artificial Intelligence
+2019-05-06,How Artificial Intelligence and Blockchain are set to transform the global immigration sector: The case of Migranet,Philip Pike,Migranet,4.1,1,Refugees,Migranet,Immigration Reform,Ieo Projects,55,Artificial Intelligence
+2016-12-09,The Public Policy Implications of Artificial Intelligence,Kim-Mai Cutler,Initialized Capital,0.219,14,Artificial Intelligence,Machine Learning,Startups,Venture Capital,76,Artificial Intelligence
+2020-03-08,Presenting data visualization to engage your audience,Rachel,UX Collective,0.353,2,UX,Data Visualization,Design,Visual Design,130,AI
+2021-01-23,6 Data Science Certificates To Level Up Your Career,Sara A. Metwalli,Towards Data Science,1.2,10,didn't_use,didn't_use,didn't_use,didn't_use,126,Data Science
+2020-10-31,Python Data Visualization with Matplotlib  Part 2,Rizky Maulana Nurhidayat,Towards Data Science,0.442,2,didn't_use,didn't_use,didn't_use,didn't_use,152,AI
+2018-01-15,Your guide to Data Visualization for Comparison,Shashank Sahay,Muzli - Design Inspiration,2.7,7,Data Visualization,UX,Design,Data Science,45,AI
+2021-02-05,How hackers are finding creative ways to steal gift cards using artificial intelligence.,Al3x9a,ITNEXT,0.337,7,Hacking,Programming,Artificial Intelligence,Blackhat,113,Artificial Intelligence
+2017-03-21,"If Data Visualization is So Hot, Why Are People Leaving?",Elijah Meeks,Independent,0.787,13,Data Visualization,Design,didn't_use,didn't_use,41,AI
+2018-12-31,10 Data Science Tools I Explored in 2018,Ben Weber,Towards Data Science,1.91,7,Data Science,Deep Learning,Machine Learning,Python,130,Data Science
+2021-02-03,All The Mathematics You Need For Artificial Intelligence,Jason Dsouza,Towards Data Science,0.273,1,Artificial Intelligence,Technology,Data Science,Python,101,Artificial Intelligence
+2019-03-06,Best Data and Big Data Visualization Techniques,Sciforce,Sciforce,0.37,1,who we are,ai,healthcare,nlp,135,AI
+2018-07-15,Why Did Artificial Intelligence Fail in the FIFA World Cup 2018?,Kaveh Bakhtiyari,Futurist Zone,2.0,35,didn't_use,didn't_use,didn't_use,didn't_use,26,Artificial Intelligence
+2018-09-27,"Building safe artificial intelligence: specification, robustness, and assurance",DeepMind Safety Research,Independent,2.1,7,Artificial Intelligence,Machine Learning,Deepmind,Ai Safety,56,Artificial Intelligence
+2019-04-15,Interactive Data Visualization with Vega,Déborah Mesquita,Towards Data Science,0.264,2,Data Visualization,Towards Data Science,Data Science,Layout,147,AI
+2019-04-24,Mapmaking in the Age of Artificial Intelligence,Tim Wallace,descarteslabs-meditations,0.371,1,Company,Platform,Business,Science,103,Artificial Intelligence
+2018-05-21,What is the Role of Journalists in Holding Artificial Intelligence Accountable?,Francesco Marconi,WSJ Digital Experience & Strategy,0.503,2,Artificial Intelligence,Journalism,Algorithms,Ethics,135,Artificial Intelligence
+2017-04-11,Strategic Innovation in Data Visualization Will Not Come From Tech,Elijah Meeks,Independent,0.396,12,Data Visualization,Design,Tech,didn't_use,117,AI
+2018-05-27,Cousins of Artificial Intelligence,Seema Singh,Towards Data Science,1.1,0,Artificial Intelligence,Machine Learning,Deep Learning,Statistics,44,Artificial Intelligence
+2017-04-05,WTF is Artificial Intelligence?,Sam DeBrule,Machine Learnings,1.4,15,Artificial Intelligence,Machine Learning,Technology,Startup,13,Artificial Intelligence
+2017-04-26,Introducing GEs data visualization framework for IoT,Dave Cronin,GE Design,0.221,5,JavaScript,Data Visualization,IoT,Ge,154,AI
+2019-12-03,"Open-Sourcing Metaflow, a Human-Centric Framework for Data Science",Netflix Technology Blog,Netflix TechBlog,2.2,5,Data Science,Machine Learning,Productivity,Python,113,Data Science
+2019-01-08,The Next Level of Data Visualization in Python,Will Koehrsen,Towards Data Science,15.3,64,Data Science,Data Visualization,Python,Education,1,AI
+2021-02-24,An Ultimate Cheat Sheet for Data Visualization in Pandas,Rashida Nasrin Sucky,Towards Data Science,0.209,1,didn't_use,didn't_use,didn't_use,didn't_use,158,AI
+2017-02-21,A New Cryptocurrency For Coordinating Artificial Intelligence on Numerai,Richard Craib,Numerai,2.5,29,Bitcoin,Blockchain,Ethereum,Artificial Intelligence,12,Artificial Intelligence
+2017-04-30,A list of artificial intelligence tools you can use today  for personal use (1/3),Liam Hänel,Independent,7.1,70,Artificial Intelligence,Machine Learning,Deep Learning,IoT,3,Artificial Intelligence
+2021-01-18,How To Apply Gestalt Psychology Principles in Data Visualization,Mala Deep,Nightingale,0.745,3,All stories,Topics in Data Viz,How To & Career,Historic Data Viz,137,AI
+2020-05-31,How to Build a Data Science Portfolio Website,Julia Nikulski,Towards Data Science,1.2,5,didn't_use,didn't_use,didn't_use,didn't_use,152,Data Science
+2017-02-08,The Two Paths from Natural Language Processing to Artificial Intelligence,Jonathan Mugan,Intuition Machine,0.8370000000000001,8,Machine Learning,Artificial Intelligence,Naturallanguageprocessing,Chatbots,37,Artificial Intelligence
+2019-07-22,Top 16 Types of Chart in Data Visualization,Lewis Chou,Towards Data Science,1.3,1,didn't_use,didn't_use,didn't_use,didn't_use,55,AI
+2017-03-08,"Artificial Intelligence, UX & The Future of Findability",spydergrrl,HackerNoon.com,0.141,3,UX,Artificial Intelligence,Information Architecture,AI,132,Artificial Intelligence
+2017-10-14,Natural Stupidity is more Dangerous than Artificial Intelligence,Carlos E. Perez,Intuition Machine,2.8,24,Artificial Intelligence,Machine Learning,Deep Learning,Deep Learning Playbook,21,Artificial Intelligence
+2020-02-09,Data Science Curriculum,Benjamin Obi Tayo Ph.D.,Towards AI,1.0,4,For Authors,Categories,Latest,About,165,Data Science
+2019-12-09,What Board Games Teach Us About Data Visualization,Johannes Wirges,Nightingale,0.448,4,All stories,Topics in Data Viz,How To & Career,Historic Data Viz,140,AI
+2021-03-13,17 types of similarity and dissimilarity measures used in data science.,Mahmoud Harmouch,Towards Data Science,1.8,10,Machine Learning,Data Science,Python,Mathematics,137,Data Science
+2019-10-20,Top data visualization examples and dashboard designs,Shane Ketterman,UX Collective,1.8,3,didn't_use,didn't_use,didn't_use,didn't_use,19,AI
+2017-03-22,"In Defense of Simplicity, A Data Visualization Journey",Irene Ros,Towards Data Science,0.226,3,Data Visualization,Design,Process,Towards Data Science,81,AI
+2015-09-02,Getting into data visualization  where should I start?,Nick Brown,Data Visualization,0.8370000000000001,7,Data Science,Data Visualization,Data,Design,54,AI
+2019-11-04,Data Science Minimum: 10 Essential Skills You Need to Know to Start Doing Data Science,Benjamin Obi Tayo Ph.D.,Towards Data Science,1.8,6,didn't_use,didn't_use,didn't_use,didn't_use,116,Data Science
+2019-10-04,The Ultimate Data Science Prerequisite Learning List,Dario Radečić,Towards Data Science,1.8,10,didn't_use,didn't_use,didn't_use,didn't_use,121,Data Science
+2017-12-08,Google leads in the race to dominate artificial intelligence,anonymous,Independent,2.2,1,didn't_use,didn't_use,didn't_use,didn't_use,25,Artificial Intelligence
+2018-05-07,"Data Visualization, Fast and Slow",Elijah Meeks,Nightingale,1.1,13,Data Visualization,Data Science,Design,Historic Data Viz,46,AI
+2019-02-18,Understanding How Artificial Intelligence Can Make Blockchain Safer and Smarter,Alessandro Mario Lagana Toschi,HackerNoon.com,0.017,2,Blockchain,Artificial Intelligence,Smart Contracts,Ai Blockchain,83,Artificial Intelligence
+2017-09-16,My Self-Created Artificial Intelligence Masters Degree,Daniel Bourke,Towards Data Science,5.0,29,Machine Learning,Artificial Intelligence,Learning,Data Science,10,Artificial Intelligence
+2017-10-13,Introduction to Numpy -1 : An absolute beginners guide to Machine Learning and Data science.,Rakshith Vasudev,HackerNoon.com,2.4,11,Machine Learning,Numpy,Data Science,Matrix,128,Data Science
+2018-03-03,Personalized push notifications enabled by artificial intelligence,Pavel Kordík,Recombee blog,0.18,1,Machine Learning,Recommender Systems,Push Notification,Artificial Intelligence,171,Artificial Intelligence
+2020-11-17,Data Visualization Cheat Sheet with Seaborn and Matplotlib,Chi Nguyen,Towards Data Science,0.477,3,didn't_use,didn't_use,didn't_use,didn't_use,108,AI
+2020-12-22,The Map of Artificial Intelligence (2020),Viacheslav Osaulenko,The Startup,0.426,2,Artificial Intelligence,Machine Learning,Neural Networks,Neuroscience,117,Artificial Intelligence
+2019-02-03,How Facebook Scales Artificial Intelligence & Machine Learning,Jamal Robinson,Independent,0.605,0,Machine Learning,Facebook,Artificial Intelligence,Cloud Computing,92,Artificial Intelligence
+2020-11-01,7 Must-Haves in your Data Science CV,Elad Cohen,Towards Data Science,1.94,18,Data Science,Careers,Cv,Interview,108,Data Science
+2018-12-10,Artificial Intelligence and Consciousness,Subhash Kak,Independent,1.2,21,Artificial Intelligence,Consciousness,Machine Learning,Mindfulness,48,Artificial Intelligence
+2020-09-04,A Practical Guide for Data Visualization,Soner Yıldırım,Towards Data Science,0.181,0,didn't_use,didn't_use,didn't_use,didn't_use,178,AI
+2019-12-12,The Best Free Data Science eBooks,Brenda Hali,Towards Data Science,1.4,4,didn't_use,didn't_use,didn't_use,didn't_use,134,Data Science
+2019-11-19,Artificial Intelligence Books you should read in 2020,Przemek Chojecki,Towards Data Science,1.0,10,didn't_use,didn't_use,didn't_use,didn't_use,41,Artificial Intelligence
+2020-04-04,14 Data Science Projects to do During Your 14 Day Quarantine,Terence Shin,Towards Data Science,3.1,8,didn't_use,didn't_use,didn't_use,didn't_use,45,Data Science
+2018-11-12,5 Key Questions to Consider before Investing in Artificial Intelligence,Vishal Morde,DataDrivenInvestor,0.263,4,Artificial Intelligence,Machine Learning,Data Science,Business,148,Artificial Intelligence
+2020-01-13,The Best book to Start your Data Science Journey,Benedict Neo,Towards Data Science,2.0,5,didn't_use,didn't_use,didn't_use,didn't_use,66,Data Science
+2017-03-10,3 Common Mistakes in Data Visualization,Joanna Ngai,UX Collective,0.507,4,Data Visualization,Design,UX,didn't_use,106,AI
+2020-08-11,The Best Data Science Certification Youve Never Heard Of,Nicole Janeway Bills,Towards Data Science,1.6,13,didn't_use,didn't_use,didn't_use,didn't_use,86,Data Science
+2020-07-13,How to Create Brand Colors for Data Visualization Style Guidelines,Amy Cesal,Nightingale,0.778,5,All stories,Topics in Data Viz,How To & Career,Historic Data Viz,64,AI
+2015-02-26,The Architecture of a Data Visualization,giorgia lupi,In Sight,2.2,14,Data Visualization,Design,Journalism,didn't_use,8,AI
+2017-12-12,Artificial intelligence is guiding venture capital to start-ups,anonymous,Independent,0.928,7,didn't_use,didn't_use,didn't_use,didn't_use,63,Artificial Intelligence
+2018-09-29,A Technical Look at How Criminals Use AI,ODSC - Open Data Science,Predict,1.8,5,Machine Learning,Data Science,Data,Technology,160,Data Science
+2018-11-02,Why you shouldnt be a data science generalist,Jeremie Harris,Towards Data Science,11.0,49,Data Science,Towards Data Science,Machine Learning,Python,13,Data Science
+2017-11-24,Beautiful Data Science Presentations,James Chen,Towards Data Science,5.4,21,Design,Data Science,Data Visualization,Machine Learning,36,Data Science
+2018-12-22,Bayes Theorem: The Holy Grail of Data Science,Artem Oppermann,Towards Data Science,5.2,41,didn't_use,didn't_use,didn't_use,didn't_use,29,Data Science
+2020-08-16,Full Stack Data Science: The Next Gen of Data Scientists Cohort,Jay Kachhadia,Towards Data Science,1.0,11,didn't_use,didn't_use,didn't_use,didn't_use,171,Data Science
+2019-10-09,How to Create an Amazing Data Science Portfolio,Tyler Folkman,Towards Data Science,1.5,5,didn't_use,didn't_use,didn't_use,didn't_use,143,Data Science
+2019-11-19,Data Science vs. Artificial Intelligence vs. Machine Learning vs. Deep Learning,Sunny Srinidhi,Towards Data Science,0.498,7,Machine Learning,Artificial Intelligence,Deep Learning,Data Science,79,Artificial Intelligence
+2017-07-21,Human-Centered Artificial Intelligence,Mark Riedl,Independent,0.156,1,Artificial Intelligence,Computational Creativity,Human Centered Ai,Machine Learning,168,Artificial Intelligence
+2018-09-03,Data Visualization  Best Practices and Foundations,Cameron Chapman,UX Planet,1.5,3,Data Visualization,Design,Graphic Design,Big Data,43,AI
+2021-01-03,10 Statistical Concepts You Should Know For Data Science Interviews,Terence Shin,Towards Data Science,1.4,4,didn't_use,didn't_use,didn't_use,didn't_use,96,Data Science
+2018-04-17,Bitcoin Data Science (Pt. 1): HODL Waves,Dhruv Bansal,Unchained Capital Blog,9.4,30,Collaborative Custody,Privacy,Team,Press,52,Data Science
+2018-05-19,An Introduction to Geographical Data Visualization,Ryan Gotesman,Towards Data Science,0.7709999999999999,7,Data Visualization,Choropleth Maps,Data Science,didn't_use,62,AI
+2016-12-21,Artificial Intelligence in the UK: Landscape and learnings from 226 startups,David Kelnar,MMC writes,0.45,15,Artificial Intelligence,Machine Learning,Startup,Deep Learning,50,Artificial Intelligence
+2019-11-22,Best JavaScript Data Visualization Libraries for 2020,Veronika Rovnik,JavaScript in Plain English,0.7140000000000001,5,JavaScript,Web Development,Programming,Data Science,174,AI
+2016-12-18,Artificial Intelligence Verticals (I): Insurance,Francesco Corea,Independent,0.183,4,didn't_use,didn't_use,didn't_use,didn't_use,162,Artificial Intelligence
+2019-10-02,Top Python Libraries Used In Data Science,Tanu N Prabhu,Towards Data Science,1.1,4,didn't_use,didn't_use,didn't_use,didn't_use,180,Data Science
+2020-02-14,"Top 20 free Data Science, ML and AI MOOCs on the Internet",Benedict Neo,Towards Data Science,2.8,9,didn't_use,didn't_use,didn't_use,didn't_use,42,Data Science
+2020-09-09,Which Career is Better: A Data Scientist or an Artificial Intelligence Engineer,Albert Christopher,Analytics Vidhya,0.257,3,Data Science,Artificial Intelligence,Data Scientist,Ai Engineer,150,Artificial Intelligence
+2017-05-08,The race is on for artificial intelligence. Heres who is winning.,Terren Peterson,We’ve moved to freeCodeCamp.org/news,0.26,4,Machine Learning,Technology,Startup,Artificial Intelligence,67,Artificial Intelligence
+2018-06-20,Designing for Data Visualization,Arin Bhowmick,IBM Design,1.98,6,Data Visualization,UX,UX Design,Design,28,AI
+2019-04-08,How BBC data journalists use R for data visualization,Pina Schipani,Hacks/Hackers London,0.39,0,ABOUT,ARTICLES,JOIN US,didn't_use,105,AI
+2018-04-18,Artificial Intelligence  The Revolution Hasnt Happened Yet,Michael Jordan,Independent,51.0,190,Artificial Intelligence,Machine Learning,Statistics,Data Science,1,Artificial Intelligence
+2016-02-08,Tiny Data Visualizations,Matthew Ström,Mission Log,0.274,3,Data Visualization,JavaScript,Design,Remote,76,AI
+2018-02-13,Fighting Cancer with Artificial Intelligence: Part 0  Deep Learning,Andrew DeCotiis-Mauro,Towards Data Science,0.532,2,Deep Learning,Cancer,Machine Learning,Data Science,93,Artificial Intelligence
+2018-08-08,Essential Math for Data Science,Tirthajyoti Sarkar,Towards Data Science,13.9,23,Machine Learning,Data Science,Mathematics,Artificial Intelligence,5,Data Science
+2020-08-02,Interactive Data Visualization In Python with Pygal,Sara A. Metwalli,Towards Data Science,0.418,3,didn't_use,didn't_use,didn't_use,didn't_use,79,AI
+2018-01-18,Artificial Intelligence: The Impact on Employment and the Workforce,George Krasadakis,The Innovation Machine,0.378,3,Artificial Intelligence,Ideas,Innovation,Leadership,134,Artificial Intelligence
+2018-02-02,Jupyter Notebook Tricks for Data Science that Enhance your efficiency,mediumnok,codeburst,2.9,11,Jupyter Notebook Extension,Timing and profiling your function,nbdime,didn't_use,101,Data Science
+2018-07-22,Data Science with Python: Intro to Data Visualization with Matplotlib,Ventsislav Yordanov,Towards Data Science,1.3,7,Data Visualization,Python,Matplot,Data Science,48,AI
+2018-07-03,Artificial Intelligence for Inventory Management.,Remi AI,Independent,0.203,2,Artificial Intelligence,Inventory Management,Reinforcement Learning,Machine Learning,145,Artificial Intelligence
+2019-09-11,9 Data Visualization Tools That You Cannot Miss in 2019,Lewis Chou,Towards Data Science,1.6,15,didn't_use,didn't_use,didn't_use,didn't_use,35,AI
+2017-02-20,Compilation of free resources to get started with Artificial Intelligence quickly,Théo Szymkowiak,Independent,0.052000000000000005,0,Machine Learning,Artificial Intelligence,Scikit,didn't_use,170,Artificial Intelligence
+2020-03-18,11 best Data Science classes if youre locked home because of Coronavirus,Rhea Moutafis,Towards Data Science,1.1,5,didn't_use,didn't_use,didn't_use,didn't_use,172,Data Science
+2016-10-05,Semantics  What does data science reveal about Clinton and Trump ?,Maixent Chenebaux,Reputation Squad,0.787,57,Politics,2016 Election,Hillary Clinton,Donald Trump,99,Data Science
+2019-12-30,2019 Was the Year Data Visualization Hit the Mainstream,Elijah Meeks,Nightingale,0.6509999999999999,2,All stories,Topics in Data Viz,How To & Career,Historic Data Viz,115,AI
+2018-03-20,"Data Visualization with Bokeh in Python, Part II: Interactions",Will Koehrsen,Towards Data Science,1.6,11,Data Visualization,Python,Education,Programming,37,AI
+2016-10-22,Write for Towards Data Science,TDS Editors,Towards Data Science,3.5,26,Join Us,Tds Team,Writers Guide,"My post has been refused, could you let me know why?",62,Data Science
+2018-07-26,Top 10 roles in AI and data science,Cassie Kozyrkov,HackerNoon.com,4.98,13,Data Science,Machine Learning,Analytics,Data Science Roles,48,Data Science
+2019-06-14,What 70% of Data Science Learners Do Wrong,Dan Becker,Towards Data Science,5.0,16,Data Science,Analytics,Learning To Code,", like permutation importance.",33,Data Science
+2018-04-05,Designing a Data Visualization Dashboard Like It was a Game,Elijah Meeks,Nightingale,0.926,1,Data Visualization,Game Development,Data Science,Design,90,AI
+2018-09-26,Topic Modeling and Data Visualization with Python/Flask,Ethan Jarrell,HackerNoon.com,0.408,2,Web Development,Topic Modeling,Data Visualization,Dailies,150,AI
+2018-11-12,Data Visualization using Matplotlib,Badreesh Shetty,Towards Data Science,1.7,2,Data Visualization,Data Science,Matplotlib,Jupyter Notebook,22,AI
+2017-09-21,Creepiest Stories in Artificial Intelligence Development,Luba Belokon,Cube Dev,1.1,3,Machine Learning,Artificial Intelligence,AI,Creepy,131,Artificial Intelligence
+2019-01-13,Mathematics for Data Science,Ibrahim Sharaf ElDen,Towards Data Science,5.8,25,Machine Learning,Data Science,Mathematics,Statistics,28,Data Science
+2018-08-26,Artificial Intelligence Will Make Us All an Entrepreneur,Erik P.M. Vermeulen,HackerNoon.com,1.1,11,Artificial Intelligence,Business,Entrepreneurship,Technology,69,Artificial Intelligence
+2019-06-17,Handy Data Visualization Functions in matplotlib & Seaborn to Speed Up Your EDA,Manu Kalia,Better Programming,0.8140000000000001,7,Archive,Write For Us,didn't_use,didn't_use,52,AI
+2018-02-05,A Comparative Analysis of Top 6 BI and Data Visualization Tools in 2018,Igor Bobriakov,ActiveWizards — AI & ML for startups,0.475,11,Data Visualization,Business Intelligence,Tableau,Data Analysis,83,AI
+2016-07-11,How to write with artificial intelligence,Max Deutsch,Deep Writing,1.6,63,Machine Learning,Artificial Intelligence,Tech,didn't_use,22,Artificial Intelligence
+2019-12-19,Plotting with Pandas: An Introduction to Data Visualization,Alan Jones,Towards Data Science,0.392,0,didn't_use,didn't_use,didn't_use,didn't_use,111,AI
+2020-03-22,Top 26 Data Science YouTube Channels you should subscribe to in 2020 [Updated,Benedict Neo,Towards Data Science,1.3,10,didn't_use,didn't_use,didn't_use,didn't_use,163,Data Science
+2018-08-29,Artificial Intelligence (AI): Salaries Heading Skyward,Stacy S.,Towards AI,1.5,13,Machine Learning,Artificial Intelligence,AI,Carnegie Mellon,36,Artificial Intelligence
+2018-10-18,Review: Artificial Intelligence in 2018,Vladimir Fedak,Towards Data Science,0.353,3,Machine Learning,Artificial Intelligence,Big Data,Python,107,Artificial Intelligence
+2019-12-03,How much Math do you really need in Data Science?,Dario Radečić,Towards Data Science,1.6,16,didn't_use,didn't_use,didn't_use,didn't_use,139,Data Science
+2019-10-04,How I Learned Data Science And the 1 Course That Changed Everything,Oscar Kwok,Towards Data Science,2.5,20,didn't_use,didn't_use,didn't_use,didn't_use,63,Data Science
+2018-01-14,Data science concepts you need to know! Part 1,Michael Barber,Towards Data Science,2.2,6,didn't_use,didn't_use,didn't_use,didn't_use,136,Data Science
+2018-01-28,Data science you need to know! A/B testing,Michael Barber,Towards Data Science,1.99,7,didn't_use,didn't_use,didn't_use,didn't_use,129,Data Science
+2016-02-12,Artificial Intelligence Could Disrupt the Live Music Space,Cortney Harding,Cuepoint,0.054000000000000006,8,Music,Tech,Music Business,DJ Culture,164,Artificial Intelligence
+2018-06-05,Python for Data Science: 8 Concepts You May Have Forgotten,Conor Dewey,Towards Data Science,10.7,31,Python,Data Science,Programming,Machine Learning,9,Data Science
+2019-12-10,Choosing the Right Tools for Data Visualization,Duncan Geere,Nightingale,0.359,0,All stories,Topics in Data Viz,How To & Career,Historic Data Viz,149,AI
+2018-10-05,Heuristic Search in Artificial Intelligence  Python,Rinu Gour,Independent,0.147,3,Machine Learning,Artificial Intelligence,Python,AI,152,Artificial Intelligence
+2019-03-22,"Downloadable: Cheat Sheets for AI, Neural Networks, Machine Learning, Deep Learning & Data Science PDF",Stefan Kojouharov,Becoming Human: Artificial Intelligence Magazine,3.6,20,Machine Learning,Neural Networks,Deep Learning,Artificial Intelligence,65,Data Science
+2018-03-13,"Data Visualization for Artificial Intelligence, and Vice Versa",plotly,Plotly,0.465,3,Machine Learning,Data Visualization,Visual Analytics,Artificial Intelligence,123,AI
+2018-08-23,Five books every data scientist should read that are not about data science,Isaac Faber,Towards Data Science,8.2,36,Data Science,Book Recommendations,Machine Learning,Learning,15,Data Science
+2020-07-27,The Top 5 Data Science Certifications,Matt Przybyla,Towards Data Science,1.1,27,didn't_use,didn't_use,didn't_use,didn't_use,157,Data Science
+2019-09-08,Data Science is Boring,Ian Xiao,Towards Data Science,4.0,22,didn't_use,didn't_use,didn't_use,didn't_use,41,Data Science
+2017-07-11,A list of artificial intelligence tools you can use today  for businesses (2/3),Liam Hänel,Independent,1.3,38,didn't_use,didn't_use,didn't_use,didn't_use,24,Artificial Intelligence
+2015-05-26,How Operations Research and Artificial Intelligence Overlap,Philip I. Thomas,Staffjoy Blog,0.3720000000000001,0,Machine Learning,Artificial Intelligence,All MLB games since 2004 have been scheduled by a computer,didn't_use,146,Artificial Intelligence
+2017-01-12,6 Types of Artificial Intelligence Environments,Jesus Rodriguez,Independent,0.825,4,didn't_use,didn't_use,didn't_use,didn't_use,84,Artificial Intelligence
+2019-06-05,Is Data Visualization the Next Design Challenge?,Stephanie Evergreen,Modus,1.7,8,Ideas,Craft,Career,didn't_use,38,AI
+2019-02-27,How Artificial Intelligence can Improve Health and Productivity?,Mindsync,mindsync.ai,0.905,3,Healthcare,AI,Big Data,didn't_use,54,Artificial Intelligence
+2015-11-13,Data Visualization in Python: Advanced Functionality in Seaborn,Insight,Insight,0.625,1,Data Science,Insight Data Science,Data Visualization,Seaborn,102,AI
+2018-03-27,Can Artificial Intelligence Be Conscious?,Cameron McLain,Independent,0.6809999999999999,5,Artificial Intelligence,Consciousness,Venture Capital,AI,119,Artificial Intelligence
+2017-07-11,"Artificial Intelligence, Machine Learning,  Deep Learning ?",Athiwat,Machines School,0.242,3,Artificial Intelligence,Machine Learning,Deep Learning,📑Data Science,115,Artificial Intelligence
+2019-08-06,Data Science Made Easy: Interactive Data Visualization using Orange,Ng Wai Foong,Towards Data Science,0.339,0,didn't_use,didn't_use,didn't_use,didn't_use,160,AI
+2020-06-08,Choosing Fonts for your Data Visualization,Tiffany France,Nightingale,0.92,6,All stories,Topics in Data Viz,How To & Career,Historic Data Viz,58,AI
+2018-12-07,3rd Wave Data Visualization,Elijah Meeks,Nightingale,2.2,13,All stories,Topics in Data Viz,How To & Career,Historic Data Viz,29,AI
+2019-02-08,Data Visualization Libraries for React Developers in 2020,Veronika Rovnik,DailyJS,2.1,7,JavaScript,Data Visualization,Analytics,React,34,AI
+2020-12-28,A Collection of Advanced Data Visualization in Matplotlib and Seaborn,Rashida Nasrin Sucky,Towards Data Science,0.27,2,didn't_use,didn't_use,didn't_use,didn't_use,118,AI
+2021-01-06,What French Bread Teaches Us About Artificial Intelligence (AI) And Machine Learning (ML),John Maeda,Independent,0.257,4,Machine Learning,Baguette,Bread,didn't_use,143,Artificial Intelligence
+2018-03-30,What Video Games Have to Teach Us About Data Visualization,Elijah Meeks,Nightingale,0.913,3,Data Visualization,Design,Game Design,Data Science,73,AI
+2017-01-23,There is No Escape from Blockchains and Artificial Intelligence Lawyers Better Be Prepared!,Erik P.M. Vermeulen,Independent,0.19,1,Blockchain,Artificial Intelligence,Legal,Creativity,172,Artificial Intelligence
+2017-04-27,What You Should Do in a World of Artificial Intelligence (and No Privacy),Erik P.M. Vermeulen,Startup Grind,0.127,3,Artificial Intelligence,Big Data,Privacy,Storytelling,144,Artificial Intelligence
+2020-01-16,"Color in Data Visualization: Less How, More Why",Connor Rothschild,Towards Data Science,0.361,0,didn't_use,didn't_use,didn't_use,didn't_use,126,AI
+2021-03-13,3 Examples to Show Python Altair is More Than a Data Visualization Library,Soner Yıldırım,Towards Data Science,0.142,0,didn't_use,didn't_use,didn't_use,didn't_use,173,AI
+2018-10-29,10 Free Data Visualization Tools,anonymous,Independent,0.504,5,Computing,Mobile,Tips & Tricks,Consumer Electronics,92,AI
+2017-09-01,Introducing Semiotic for Data Visualization,Elijah Meeks,Independent,2.6,7,Data Visualization,React,Information Design,D3js,23,AI
+2019-11-16,The Top 3 Books to Get Started with Data Science Right Now,Tyler Folkman,Towards Data Science,1.1,4,didn't_use,didn't_use,didn't_use,didn't_use,162,Data Science
+2019-10-19,Data Sciences Most Misunderstood Hero,Cassie Kozyrkov,Towards Data Science,4.6,16,Data Science,Analytics,Technology,Artificial Intelligence,44,Data Science
+2018-12-06,Animating Your Data Visualizations Like a Boss Using R,Isaac Faber,Towards Data Science,0.997,7,Data Visualization,Data Science,R,Plotly,39,AI
+2020-11-21,Creating Flutter Application Integrated With Artificial Intelligence,Sophia Martin,Flutter Community,1.1,3,Mobile App Development,Mobile Apps,Technology,Business,46,Artificial Intelligence
+2019-05-22,The Simpsons meets Data Visualization,Adam Reevesman,Towards Data Science,2.9,14,The Simpsons,Data Visualization,Python,Data Science,12,AI
+2019-03-06,Data Visualization Society Logo: Behind the scenes,Amy Cesal,Nightingale,0.746,6,Data Visualization,Design,Logo Design,Data Science,132,AI
+2019-08-23,How To Create A Thriving Data Visualization Culture,David Mora,Nightingale,0.693,7,All stories,Topics in Data Viz,How To & Career,Historic Data Viz,82,AI
+2018-12-31,Top 7 libraries and packages of the year for Data Science and AI: Python & R,Favio Vázquez,Heartbeat,2.8,4,Data Science,Programming,Machine Learning Tools,Heartbeat,106,Data Science
+2017-01-16,How to get your first job in Data Science?,Tomi Mester,Independent,2.6,34,Data Science,Learning To Code,Startup,Tech,54,Data Science
+2019-02-12,A Bill of Rights for the Age of Artificial Intelligence,George M. Church,OneZero,2.5,31,didn't_use,didn't_use,didn't_use,didn't_use,34,Artificial Intelligence
+2018-07-08,How to Build a Data Science Portfolio,Michael Galarnyk,Towards Data Science,18.8,88,Data Science,Interview,Portfolio,Python,2,Data Science
+2020-02-27,How to Know If Artificial Intelligence Is About to Destroy Civilization,anonymous,Independent,0.4370000000000001,5,didn't_use,didn't_use,didn't_use,didn't_use,126,Artificial Intelligence
+2016-11-16,The Non-Technical Guide to Machine Learning & Artificial Intelligence,Sam DeBrule,Machine Learnings,7.6,62,Artificial Intelligence,Machine Learning,Startups,Tech,2,Artificial Intelligence
+2020-07-15,Ten SQL Concepts You Should Know for Data Science Interviews,Terence Shin,Towards Data Science,2.3,4,didn't_use,didn't_use,didn't_use,didn't_use,50,Data Science
+2016-09-11,Artificial intelligence is hard to see,Kate Crawford,Independent,0.74,44,Artificial Intelligence,Machine Learning,Social Impact,didn't_use,64,Artificial Intelligence
+2018-02-01,Python Basics for Data Science,Ventsislav Yordanov,Towards Data Science,3.6,11,Programming,Python,Data Science,Numpy,81,Data Science
+2018-11-12,4 More Quick and Easy Data Visualizations in Python with Code,George Seif,Towards Data Science,1.7,3,didn't_use,didn't_use,didn't_use,didn't_use,27,AI
+2018-08-01,5 Resources to Inspire Your Next Data Science Project,Conor Dewey,Towards Data Science,6.0,8,didn't_use,didn't_use,didn't_use,didn't_use,35,Data Science
+2015-08-12,The State of Artificial Intelligence in Six Visuals,Venture Scanner,Independent,0.219,4,Machine Learning,Artificial Intelligence,Deep Learning,Venture Funding in Artificial Intelligence,75,Artificial Intelligence
+2020-11-04,Keep your graphs and charts honest by avoiding these common data visualization pitfalls.,Amy Balliett,Better Humans,0.77,10,didn't_use,didn't_use,didn't_use,didn't_use,86,AI
+2016-12-21,Artificial Intelligence and You: Demystifying the Technology Landscape,Mimi An,ThinkGrowth.org,0.241,3,Artificial Intelligence,Machine Learning,Technology,Business,72,Artificial Intelligence
+2017-06-13,Artificial Intelligence 101: Everything You Need to Know To Understand AI,Diamond Inc.,Independent,0.542,5,Artificial Intelligence,Machine Learning,Startup,Productivity,99,Artificial Intelligence
+2017-10-13,How Artificial Intelligence can support blockchain applications like Telcoin,Telcoin,Independent,0.239,5,Telcoin,Blockchain,Artificial Intelligence,Cryptocurrency,88,Artificial Intelligence
+2017-03-16,I reverse-engineered a $500M Artificial Intelligence company in one week. Heres the full story.,Gianluca Mauro,Startup Grind,2.0,33,Machine Learning,Artificial Intelligence,Energy,Data Science,9,Artificial Intelligence
+2017-11-22,Docker for Data Science,Sachin Abeywardana,Towards Data Science,2.5,8,Docker,Data Science,Machine Learning Ai,Deep Learning,92,Data Science
+2018-04-15,How Data Visualization was Born,Carolina Bento,Towards Data Science,0.182,4,Data Visualization,Data,Data Science,Data Analysis,162,AI
+2018-09-26,16 Examples of Artificial Intelligence (AI) in Your Everyday Life,The Manifest,Independent,0.329,7,Artificial Intelligence,AI,Technology,Technology Trends,161,Artificial Intelligence
+2019-11-19,Data Science Books you should read in 2021,Przemek Chojecki,Towards Data Science,2.3,10,didn't_use,didn't_use,didn't_use,didn't_use,53,Data Science
+2019-07-23,4 Observations on Animating Your Data Visualizations,Data@Urban,Independent,0.246,0,Data Visualization,didn't_use,didn't_use,didn't_use,168,AI
+2016-05-01,10 Takeaways from 22 Data Visualization Practitioners at #OpenVisConf,Siena Duplan,We’ve moved to freeCodeCamp.org/news,0.229,4,Data Visualization,Data Science,Data,Design,87,AI
+2017-09-21,655 Frustrations Doing Data Visualization,Shirley Wu,"Visualizing, The Field",0.966,1,Data Visualization,Community,didn't_use,didn't_use,63,AI
+2020-04-24,"If I had to start learning Data Science again, how would I do it?",Santiago Víquez,Towards Data Science,6.7,27,Data Science,Machine Learning,Deep Learning,Python,14,Data Science
+2021-02-04,An Ultimate Cheat sheet of Data Visualization with Pythons Seaborn Library,Rashida Nasrin Sucky,Towards Data Science,0.251,1,didn't_use,didn't_use,didn't_use,didn't_use,138,AI
+2018-06-10,Python vs (and) R for Data Science,Brian Ray,Noteworthy - The Journal Blog,3.2,22,Data Science,Python,R,Statistics,89,Data Science
+2018-12-07,The Seductive Diversion of Solving Bias in Artificial Intelligence,Julia Powles,OneZero,2.1,8,didn't_use,didn't_use,didn't_use,didn't_use,32,Artificial Intelligence
+2020-03-31,How Self-Employed Data Visualization Designers Make a Living,Jane Zhang,Nightingale,0.809,3,All stories,Topics in Data Viz,How To & Career,Historic Data Viz,96,AI
+2018-11-30,A Guide to Decision Trees for Machine Learning and Data Science,George Seif,Towards Data Science,1.7,8,didn't_use,didn't_use,didn't_use,didn't_use,167,Data Science
+2019-08-01,Top 10 Map Types in Data Visualization,Lewis Chou,Towards Data Science,0.499,0,didn't_use,didn't_use,didn't_use,didn't_use,151,AI
+2017-08-27,Fantasy Football + Artificial Intelligence Cheat Sheet!,Justin Hart,Independent,0.179,4,Fantasy Football,Machine Learning,Football,NFL,175,Artificial Intelligence
+2018-06-06,Going Dutch: How I Used Data Science and Machine Learning to Find an Apartment in Amsterdam  Part I,Rafael Pierre,Towards Data Science,3.0,18,didn't_use,didn't_use,didn't_use,didn't_use,135,Data Science
+2020-02-13,Create impactful data visualizations with these books,JP Hwang,Towards Data Science,0.269,2,didn't_use,didn't_use,didn't_use,didn't_use,129,AI
+2017-04-12,How to Meet User Expectations for Artificial Intelligence,Kathy Baxter,Salesforce Design,0.128,4,Artificial Intelligence,Bots,User Research,User Experience Design,130,Artificial Intelligence
+2020-04-15,Explainable Artificial Intelligence,z_ai,Towards Data Science,0.136,5,didn't_use,didn't_use,didn't_use,didn't_use,166,Artificial Intelligence
+2018-01-09,Top 4 Popular Big Data Visualization Tools,Vladimir Fedak,Towards Data Science,0.331,3,Data Visualization,AI,Artificial Intelligence,Big Data,142,AI
+2017-12-15,Data Visualization: Uncovering the Hidden Layers of Hip Hop Lyrics,Svilen,Svilen's Realm,1.4,4,Data Visualization,Design,Innovation,Music,65,AI
+2017-09-17,The Ten Fallacies of Data Science,Shane Brennan,Towards Data Science,4.7,29,Data Science,Data Engineering,Analytics,Corporate Culture,55,Data Science
+2018-10-15,Machine Learning (ML) vs. Artificial Intelligence (AI)  Crucial Differences,Roberto Iriondo,Towards AI,7.3,42,Artificial Intelligence,Machine Learning,Data Science,Technology,6,Artificial Intelligence
+2020-04-02,4 free maths courses to do in quarantine and level up your Data Science skills,Gonzalo Ferreiro Volpi,Towards Data Science,2.6,11,didn't_use,didn't_use,didn't_use,didn't_use,51,Data Science
+2020-12-16,History Warns of the Deadly Threat to Humanity from Artificial Intelligence,George J. Ziogas,Digital Diplomacy,2.2,14,FOLLOW DIGITAL DIPLOMACY ON TIKTOK,didn't_use,didn't_use,didn't_use,142,Artificial Intelligence
+2018-04-17,How to Construct a Data Science Portfolio from Scratch,Manali Shinde,One Datum At A Time,1.6,14,Data Science,Data Analysis,Portfolio,Technology,176,Data Science
+2019-06-27,Anomaly Detection  Another Challenge for Artificial Intelligence,Sciforce,Sciforce,0.62,1,who we are,ai,healthcare,nlp,90,Artificial Intelligence
+2019-03-26,A step-by-step guide for creating advanced Python data visualizations with Seaborn / Matplotlib,Shiu-Tang Li,Towards Data Science,2.7,12,Data Science,Matplotlib,Seaborn,Data Visualization,11,AI
+2016-10-04,Cool stuff you can do with Artificial Intelligence,Aman Goel,Independent,0.185,1,Artificial Intelligence,Machine Learning,Genetic Algorithm,didn't_use,178,Artificial Intelligence
+2019-05-17,Automating Trading and Market Making With Artificial Intelligence,Luke Posey,Towards Data Science,0.375,3,didn't_use,didn't_use,didn't_use,didn't_use,109,Artificial Intelligence
+2018-03-31,"Data Visualization with Bokeh in Python, Part III: Making a Complete Dashboard",Will Koehrsen,Towards Data Science,3.6,18,Python,Data Visualization,Programming,Bokeh,9,AI
+2017-09-26,Rational Agents for Artificial Intelligence,Prashant Gupta,HackerNoon.com,0.48,1,Artificial Intelligence,AI,Machine Learning,Deep Learning,121,Artificial Intelligence
+2019-03-25,The Single Course That Fast-Tracked My Data Science Learning Journey,Admond Lee,Towards Data Science,0.99,14,Data Science,Education,Learning,Machine Learning,170,Data Science
+2018-08-20,A Data Science for Good Machine Learning Project Walk-Through in Python: Part One,Will Koehrsen,Towards Data Science,4.2,13,Machine Learning,Data Science,Education,Python,59,Data Science
+2019-03-01,Python Genetic Algorithms With Artificial Intelligence,Rinu Gour,Independent,0.204,2,didn't_use,didn't_use,didn't_use,didn't_use,120,Artificial Intelligence
+2018-10-11,Five Interview Questions to Predict a Good Data Scientist,ODSC - Open Data Science,Predict,3.6,16,Data Science,Technology,Artificial Intelligence,Deep Learning,49,Data Science
+2019-12-16,Top 7 Trends in Data Visualization Software for 2019,Lewis Chou,Towards Data Science,0.51,0,didn't_use,didn't_use,didn't_use,didn't_use,167,AI
+2018-05-08,What Is an Infographic? And How Is it Different from a Data Visualization?,Payman Taei,Towards Data Science,0.919,3,Data Visualization,Data Science,Visualization,Data,57,AI
+2018-12-03,React + D3 : The Macaroni and Cheese of the Data Visualization World,Leigh Steiner,Towards Data Science,1.2,7,React,D3js,JavaScript,Programming,74,AI
+2020-09-10,How Id Learn Data Science if I Could Start Over (2 years in),Terence Shin,Towards Data Science,3.6,19,didn't_use,didn't_use,didn't_use,didn't_use,22,Data Science
+2020-11-21,8 Must-Know Data Visualizations for Better Data Analysis,Soner Yıldırım,Towards Data Science,0.218,0,didn't_use,didn't_use,didn't_use,didn't_use,136,AI
+2020-05-30,The future of artificial intelligence  Neuromorphic computing,Stefan Pircalabu,Towards Data Science,0.455,3,didn't_use,didn't_use,didn't_use,didn't_use,105,Artificial Intelligence
+2017-10-30,A Data Science Workflow,Aakash Tandel,Towards Data Science,1.9,4,Machine Learning,Data Science,Programming,Data,161,Data Science
+2019-01-15,Exploratory Design in Data Visualization,Elijah Meeks,Independent,0.6609999999999999,3,Data Visualization,Design,Data Science,didn't_use,99,AI
+2017-11-22,"Chart  the most powerful data visualization plugin for Sketch, Figma and Adobe XD",Pavel Kuligin,Design + Sketch,4.1,36,Design,Sketch,Data Visualization,Charts,13,AI
+2017-01-03,Blockchains for Artificial Intelligence,Trent McConaghy,Ocean Protocol,1.6,19,Blockchain,Artificial Intelligenc,Big Data,Machine Learning,30,Artificial Intelligence
+2019-09-27,Artificial Intelligence: Do stupid things faster with more energy!,Cassie Kozyrkov,Towards Data Science,1.5,13,Artificial Intelligence,Technology,Machine Learning,Data Science,58,Artificial Intelligence
+2016-10-28,Six graphs to understand the state of Artificial Intelligence academic research.,Gianluca Mauro,AI ACADEMY,0.315,7,Artificial Intelligence,Machine Learning,Programming,Big Data,137,Artificial Intelligence
+2020-07-23,Writing Alt Text for Data Visualization,Amy Cesal,Nightingale,0.514,1,All stories,Topics in Data Viz,How To & Career,Historic Data Viz,166,AI
+2017-03-27,How to Remake Historical Data Visualization and Why You Should,Elijah Meeks,Independent,0.5760000000000001,1,Data Visualization,Design,didn't_use,didn't_use,131,AI
+2019-01-21,Quality over quantity: building the perfect data science project,Jeremie Harris,Towards Data Science,2.3,6,Data Science,Towards Data Science,Machine Learning,Coding,131,Data Science
+2018-12-31,Top 30 data science interview questions.,Nitin Panwar,Towards Data Science,2.2,12,Machine Learning,Data Science,AI,Neural Networks,100,Data Science
+2017-08-07,"Romance Novels, Generated by Artificial Intelligence","Elle O'Brien, Ph.D.",Towards Data Science,2.4,70,Artificial Intelligence,Romance,Machine Learning,Books,15,Artificial Intelligence
+2017-12-19,How To Ace Data Science Interviews: Statistics,Carson Forter,Towards Data Science,3.7,6,didn't_use,didn't_use,didn't_use,didn't_use,88,Data Science
+2019-09-19,Game Theory in Artificial Intelligence,Pier Paolo Ippolito,Towards Data Science,0.478,2,didn't_use,didn't_use,didn't_use,didn't_use,104,Artificial Intelligence
+2020-09-03,Data visualization with Python and JavaScript,Veronika Rovnik,Python in Plain English,0.535,2,Data Visualization,JavaScript,Python,Data Science,153,AI
+2019-02-13,A new UX method for building better data visualization products,Benjamin Cooley,UX Collective,1.8,12,UX Design,UX,Data Visualization,Data,36,AI
+2018-02-15,Artificial Intelligence is Great But only as Science Fiction,Shon Ellerton,The Ironkeel Collection,4.4,0,Artificial Intelligence,Film,Computers,Robots,112,Artificial Intelligence
+2018-11-22,Probability and Statistics for Data Science Part-1,Badreesh Shetty,Towards Data Science,1.8,14,Data Science,Statistics,Data Analysis,Analytics,122,Data Science
+2015-06-20,Doing Data Science at Twitter,Robert Chang,Independent,5.1,47,Data Science,Silicon Valley,Entrepreneurship,The Data Engineering Ecosystem: An interactive map,21,Data Science
+2017-05-24,How Airbnb Democratizes Data Science With Data University,Jeff Feng,Airbnb Engineering & Data Science,2.3,20,Data Science,Analytics,Education,People,72,Data Science
+2019-03-03,Introduction to Statistics for Data Science,Super Albert,The Making Of… a Data Scientist,2.1,15,🐍 | Python,📈| Statistics & Probability,🤖| Machine Learning,📒 | Projects,107,Data Science
+2019-10-02,Doing enterprise financial data visualization after data journalism,Toph Tucker,Independent,0.8029999999999999,2,lorem ipsum,"In news, the story is found in the data before publication (by the journalist); in software, it’s found after shipping (by the user).",Speed matters more than all of this.,interactivity considered harmful,93,AI
+2017-11-16,The Beginners Guide to Understanding Artificial Intelligence,Joanna Ngai,UX Collective,0.813,2,Artificial Intelligence,Machine Learning,Guide,AI,80,Artificial Intelligence
+2018-11-27,"3 common data science career transitions, and how to make them happen",Jeremie Harris,Towards Data Science,2.2,18,Data Science,Machine Learning,Towards Data Science,Career Change,103,Data Science
